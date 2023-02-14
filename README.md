@@ -14,5 +14,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL:
+- Solution URL: https://github.com/jengori/fylo-data-storage
+- Live Site URL: https://jengori.github.io/fylo-data-storage
